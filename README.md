@@ -1,4 +1,4 @@
-//Initial commit
+//Initial commit - Eric Taylor
 
 # Module Project: Redux - Car Sales
 
